@@ -1,9 +1,10 @@
 # Create an AD-Security-Group
-#Create a CSV folder on Excel sheet
-Import CSV file using Powershell and create the groups
-the CSV file should have 
-name
-path
-scope
-category
-description
+
+
+
+<h2> How to use AD Sec.ps1 </h2>
+<ul>
+<li> Create a CSV folder on Excel sheet </li>
+<li> Import CSV file using Powershell and create the groups the CSV file should have name path scope category description </li>
+
+</ul>
